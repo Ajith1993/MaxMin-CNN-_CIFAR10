@@ -4,7 +4,7 @@ This repository contains implementation of the paper [MaxMin Convolutional Neura
 
 ## How to use it?
 
-The notebook is self explanatory. I coded this network in Google Colab. There are mentions of 2 h5 files which are the saved weights of the model . 
+The notebook is self explanatory. I coded this network in Google Colab. There are mentions of 2 h5 files which are the saved weights of the model which are not needed for training . 
 
 ## Implementation 
 
