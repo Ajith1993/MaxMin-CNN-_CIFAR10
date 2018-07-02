@@ -8,7 +8,7 @@ The notebook is self explanatory. I coded this network in Google Colab. There ar
 
 ## Implementation 
 
-The implementation is done using Keras. Training is done using Google Colaboratory.
+The implementation is done using Keras. Training is done using Google Colaboratory. The accuracy is achieved using Maxmin Convolution alongwith Winograd Architecture and Transfer learning.
 
 ### Any suggestions or queries are appreciated!!
 
